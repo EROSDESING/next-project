@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/index"],"m":["./node_modules/isomorphic-fetch/fetch-npm-browserify.js","./node_modules/next/dist/build/polyfills/fetch/whatwg-fetch.js","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CData%5CDesktop%5Cnext-project%5Cpages%5Cindex.js!","./pages/index.js"]}
